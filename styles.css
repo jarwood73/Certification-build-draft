@@ -1,0 +1,82 @@
+@media screen {
+    
+}
+element.style {
+    position: absolute;
+left: 78px;
+top: 58px;
+width: 1764px;
+height: 1804px;
+}
+
+div {
+    display: block;
+    position: relative; 
+    left: 78px;
+     top:58px;
+     width: 1764px; 
+     height: 1804px;"
+}
+h1 {
+    display: block;
+    font-size: 4em;
+    margin-top: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+.container {
+    max-width: 800px;
+    font-size: x-large;
+    text-align: center;
+}
+img {
+    border-radius: 50%;
+    border: 8px solid #ddd;
+    padding: 5px;
+    max-width: 25%;
+    height:auto;
+    margin-left: 1000px;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+nav {
+    display:flex;
+    position: fixed;
+}
+.welcome-section {
+    height: 100vh;
+    background-color: orange;
+}
+.projects-section {
+    height: 25vh;
+    background-color: rgb(88, 89, 91);
+}
+.contact-section {
+    height: 25vh;
+    background-color: rgb(88, 89, 91);
+}
+ul {
+    font-size: xx-large;
+    background-color: black;
+    color: white;
+    display: flex;
+    position: fixed;
+    justify-content: space-evenly;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+a:-webkit-any-link {
+    color: white;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.profile-link {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+
